@@ -41,7 +41,10 @@ Vamos colocar esse app pra rodar em poucos passos! Siga o guia abaixo:
 - Um editor de código (recomendo o **VS Code**)! ✂️
 
 ### 2️⃣ Configurando o Projeto
-- Clone ou baixe este repositório. 📦
+- Clone o repositório usando o comando: 📦
+  ```bash
+  git clone https://github.com/seu-usuario/HelloExpo.git
+  ```
 - Abra o terminal e entre na pasta do projeto:
   ```bash
   cd HelloExpo
