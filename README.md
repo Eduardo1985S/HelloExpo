@@ -159,8 +159,8 @@ Seu apoio é fundamental para continuarmos criando recursos educacionais de qual
 ## 🙌 Agradecimentos
 
 #### Obrigado por chegar até aqui!
-- Vamos aprender juntos e fazer esse semestre incrivel! 
-- 🤟 Boa sorte, Dev´s! 💻
+#### Vamos aprender juntos e fazer esse semestre incrivel! 
+#### 🤟 Boa sorte, Dev´s! 💻
 
 Professor Eduardo Correia
 
