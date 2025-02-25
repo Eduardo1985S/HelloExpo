@@ -72,7 +72,7 @@ Vamos colocar esse app pra rodar em poucos passos! Siga o guia abaixo:
 
 ---
 
-## 🌈 Estrutura do Projeto
+## 👌🏻 Estrutura do Projeto
 
 Aqui está o que vocês vão encontrar:
 
